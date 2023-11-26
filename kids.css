@@ -86,7 +86,7 @@ section {
 
 .main-home {
   height: 100vh;
-  background-image: url(image/p-bgkids.png);
+  background-image: url(imagebg/p-bgkids.png);
   background-position: center;
   background-size: cover;
   display: grid;

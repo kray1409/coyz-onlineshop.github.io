@@ -86,7 +86,7 @@ section {
 
 .main-home {
   height: 100vh;
-  background-image: url(image/p-bgwanita.png);
+  background-image: url(imagebg/p-bgwanita.png);
   background-position: center;
   background-size: cover;
   display: grid;
